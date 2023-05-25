@@ -1,0 +1,5 @@
+{
+    "git.allowNoVerifyCommit": true,
+    "git.allowForcePush": true,
+    "git.alwaysShowStagedChangesResourceGroup": true
+}
