@@ -19,7 +19,7 @@ const App = () => {
 
   const addTask = () => {
     axios.post(`${baseURL}/save`, {task: input}).then((res)=>{
-      console.log(res.data)
+      console.log(error.res.data)
       setInput('')
       setUpdateUI((prevState)=> !prevState)
     })

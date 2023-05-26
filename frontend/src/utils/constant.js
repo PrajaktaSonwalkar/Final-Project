@@ -1,1 +1,1 @@
-export const baseURL = "https://finalprojectbackend-zsea.onrender.com/api/get"
+export const baseURL = "https://finalprojectbackend-zsea.onrender.com"
